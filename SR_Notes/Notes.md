@@ -38,3 +38,7 @@ We can change VS code terminal to Git Bash which is better than Powershell(Windo
 It is an application similar to Authy, MS Authenticator.
 For Authentication We can enable 2 step verification for our Github Account.
 It is a better to use Github Mobile, since it will provide easy access.
+
+####Personal Note
+I am unable to push changes on github through VS Code, since it is login with other account.
+Using Github Desktop to push changes.
