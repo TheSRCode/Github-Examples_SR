@@ -23,4 +23,6 @@ git commit -m "Comment"
 git push origin
 ```
 
+### 2. Using Git in VS code
 
+Instead of using codespace, I am using VS COde in my local.
