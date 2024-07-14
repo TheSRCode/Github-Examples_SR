@@ -39,6 +39,7 @@ It is an application similar to Authy, MS Authenticator.
 For Authentication We can enable 2 step verification for our Github Account.
 It is a better to use Github Mobile, since it will provide easy access.
 
-####Personal Note
+#### Personal Note
 I am unable to push changes on github through VS Code, since it is login with other account.
-Using Github Desktop to push changes.
+Using Github Desktop to push changes. The issue is just because of login credential, as I have two different accounts of Github, in my VS Code it is taking a default credentials which I used before to login and now I am getting error may be because of cache and unable to logout in VS Code.
+I am editing ode in VS code and then using Github Desktop for pushing code.
